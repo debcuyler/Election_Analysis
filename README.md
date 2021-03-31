@@ -28,5 +28,19 @@ The analysis of the election show that:
   - Diana DeGette received 73.8% of the vote and 272,892 votes.
 
 ## Challenge Overview
+Continued analysis of the Colorado congressional election.
+
+1. Determine the voter turnout for each county
+2. Calculate the percentage of votes from each county out of the count of total votes
+3. Determine the county with the highest voter turnout
 
 ## Challenge Summary
+The analysis of the voter turnout show that:
+- The county voter turnout was:
+  - Jefferson County with 10.5% of the vote and 38,855 votes
+  - Denver County with 82.8% of the vote and 306,055 votes
+  - Arapahoe County with 6.7% of the vote and 24,801 votes
+- The county with the highest voter turnout was Denver County
+
+## Election-Audit Summary
+The election audit code was created using dictionaries, lists and variables. With this format, this code can easily be reused with minimal modification. The input file name, column header names and output file can all be re-named to accommodate other csv files. The dictionaries, lists and variables can all be reused as they are. 
